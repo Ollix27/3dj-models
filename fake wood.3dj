@@ -1,0 +1,17 @@
+{
+	"label": "planks",
+	"tooltip": "fake ones",
+	"isButton": false,
+	"collideWhenOn": false,
+	"collideWhenOff": false,
+	"lightLevel": 0,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [0, 0, 0, 16, 16, 16],
+			"texture": "minecraft:block/spruce_planks",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}
