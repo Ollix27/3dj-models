@@ -1,0 +1,57 @@
+{
+	"label": "model",
+	"tooltip": "Made with Blockbench",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 8,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [0, 0, 5, 3, 1, 7],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 1, 5, 1, 7, 7],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [4, 0, 5, 5, 7, 7],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [5, 0, 5, 7, 1, 7],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [7, 0, 5, 8, 7, 7],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [9, 0, 5, 10, 6, 7],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [10, 6, 5, 13, 7, 7],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [10, 3, 5, 13, 4, 7],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [13, 0, 5, 14, 6, 7],
+			"texture": "minecraft:block/blue_concrete",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}

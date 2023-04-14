@@ -1,0 +1,42 @@
+{
+	"label": "Tank",
+	"tooltip": "toy... tank",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 0,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [3, 0, 4, 5, 2, 14],
+			"texture": "minecraft:block/gray_wool",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [11, 0, 4, 13, 2, 14],
+			"texture": "minecraft:block/gray_wool",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [4, 2, 5, 12, 4, 13],
+			"texture": "minecraft:block/green_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [5, 4, 6, 11, 6, 12],
+			"texture": "minecraft:block/cut_copper",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [6, 6, 7, 10, 8, 11],
+			"texture": "minecraft:block/cut_copper",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [7, 6, 11, 9, 8, 16],
+			"texture": "minecraft:block/cut_copper",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}
